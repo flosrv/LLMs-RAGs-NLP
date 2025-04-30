@@ -1,0 +1,336 @@
+Voici une liste de course exhaustive, sans tri :
+
+- Pommes
+- Bananes
+- Oranges
+- Poires
+- Raisins
+- Tomates
+- Carottes
+- Pommes de terre
+- Oignons
+- Ail
+- Courgettes
+- Aubergines
+- Poivrons
+- Brocolis
+- Chou-fleur
+- Salade verte
+- Épinards
+- Concombres
+- Radis
+- Lait
+- Crème fraîche
+- Fromage râpé
+- Fromage à pâte dure (comté, emmental)
+- Yaourts nature
+- Beurre
+- Margarine
+- Œufs
+- Pain
+- Pâtes
+- Riz
+- Couscous
+- Lentilles
+- Pois chiches
+- Farine
+- Sucre
+- Chocolat
+- Cacao en poudre
+- Miel
+- Confiture (framboise, abricot)
+- Huile d'olive
+- Vinaigre balsamique
+- Sauce tomate
+- Moutarde
+- Mayonnaise
+- Ketchup
+- Sel
+- Poivre
+- Herbes de Provence
+- Thym
+- Basilic
+- Romarin
+- Paprika
+- Curry
+- Sauce soja
+- Sauce piquante
+- Bouillon cube
+- Légumes surgelés
+- Fruits surgelés
+- Viande hachée
+- Blancs de poulet
+- Poisson (saumon, cabillaud)
+- Jambon
+- Saucisses
+- Bacon
+- Pâté
+- Tofu
+- Céréales
+- Barres de céréales
+- Biscottes
+- Gâteaux
+- Chocolats
+- Bonbons
+- Crêpes
+- Glaces
+- Jus d'orange
+- Jus de pomme
+- Eau minérale
+- Boissons gazeuses
+- Vin
+- Bière
+- Thé
+- Café
+- Lait en poudre
+- Lait concentré
+- Lait d'amande
+- Lait de coco
+- Purée de tomates
+- Cornichons
+- Olives
+- Noix
+- Amandes
+- Pistaches
+- Cacahuètes
+- Chips
+- Popcorn
+- Crackers
+- Biscuits apéritifs
+- Pâtes à tarte
+- Pâte feuilletée
+- Pâte brisée
+- Levure chimique
+- Bicarbonate de soude
+- Savon
+- Shampooing
+- Dentifrice
+- Déodorant
+- Papier toilette
+- Essuie-tout
+- Lingettes
+- Nettoyant multi-surfaces
+- Lessive
+- Éponges
+- Gants en caoutchouc
+- Piles
+- Ampoules
+- Bougies
+- Papier aluminium
+- Film plastique
+- Sac poubelle
+- Aliments pour animaux
+- Litière pour chat
+- Pastilles pour lave-vaisselle
+- Liquide vaisselle
+- Cire pour le sol
+- Produits de nettoyage pour vitres
+- Détergent pour toilettes
+- Pansements
+- Paracétamol
+- Médicaments contre la toux
+- Crème solaire
+- Désinfectant
+- Bandages
+- Vicks
+- Sérum physiologique
+- Bâtons de glace
+- Gels douche
+- Crème hydratante
+- Baume à lèvres
+- Mousse à raser
+- Rasoirs
+- Crème après-rasage
+- Lingettes démaquillantes
+- Coton-tiges
+- Cotons
+- Sérum pour les cheveux
+- Lait corporel
+- Pince à épiler
+- Ciseaux
+- Papiers à lettres
+- Cartouches d'encre
+- Pochettes plastiques
+- Agrafeuse
+- Piles rechargeables
+- Tapis de souris
+- Gants de ménage
+- Masques jetables
+- Gels pour les mains
+- Crème de nuit
+- Crème pour les yeux
+- Pince à cheveux
+- Élastiques à cheveux
+- Brosse à cheveux
+- Brosse à dents
+- Peigne
+- Démaquillant
+- Lotion tonique
+- Crème de jour
+- Blanchiment dentaire
+- Clés USB
+- Carte SD
+- Chargeur de téléphone
+- Étui pour téléphone
+- Casque audio
+- Haut-parleurs bluetooth
+- Prise multiple
+- Filtre à eau
+- Thermomètre
+- Parfum
+- Bouillotte
+- Thermos
+- Sac à dos
+- Valise
+- Manteau
+- Chaussures
+- Chaussettes
+- T-shirt
+- Pantalon
+- Short
+- Robe
+- Chapeau
+- Écharpe
+- Gants
+- Pyjama
+- Slip
+- Soutien-gorge
+- Débardeur
+- Pull
+- Chaussons
+- Cravate
+- Ceinture
+- Bracelet
+- Montre
+- Lunettes de soleil
+- Porte-clés
+- Trousse de maquillage
+- Serviettes de bain
+- Draps
+- Oreillers
+- Couette
+- Housse de couette
+- Taies d'oreiller
+- Coussin
+- Plaid
+- Nappe
+- Tapis
+- Rideaux
+- Parure de lit
+- Plantes d'intérieur
+- Plantes d'extérieur
+- Semences de jardin
+- Engrais
+- Terreau
+- Arrosoir
+- Outils de jardin
+- Pot de fleurs
+- Vases
+- Panier
+- Sac à main
+- Porte-monnaie
+- Sac à dos
+- Sac de courses
+- Sac de sport
+- Sac à dos pour enfant
+- Panier à linge
+- Boîte de rangement
+- Panier à fruits
+- Boîte hermétique
+- Bocaux
+- Vaisselle
+- Couverts
+- Verres
+- Assiettes
+- Bols
+- Tasses
+- Mug
+- Plat à four
+- Plat à gâteau
+- Ramequins
+- Pichets
+- Tire-bouchon
+- Tapis de bain
+- Tapis de cuisine
+- Plaques de cuisson
+- Marmite
+- Poêle
+- Wok
+- Grille-pain
+- Mixeur
+- Robot de cuisine
+- Bouilloire
+- Machine à café
+- Extracteur de jus
+- Grille-pain
+- Friteuse
+- Cuiseur à riz
+- Presse-agrumes
+- Moulin à café
+- Presse-purée
+- Lave-vaisselle
+- Lave-linge
+- Sèche-linge
+- Réfrigérateur
+- Congélateur
+- Four
+- Micro-ondes
+- Machine à laver
+- Machine à coudre
+- Fer à repasser
+- Aspirateur
+- Déshumidificateur
+- Ventilateur
+- Climatisation
+- Chauffage
+- Luminaires
+- Lampes
+- Abat-jour
+- Ampoules LED
+- Luminaires de salon
+- Mobiliers de jardin
+- Table de salon
+- Canapé
+- Fauteuil
+- Meuble TV
+- Table à manger
+- Chaises
+- Tabourets
+- Meuble à chaussures
+- Meuble à livres
+- Bureau
+- Étagère
+- Meuble de rangement
+- Bibliothèque
+- Lits superposés
+- Armoire
+- Commode
+- Bureau pour enfant
+- Lit bébé
+- Chaise haute
+- Poussette
+- Berceau
+- Sac à langer
+- Biberons
+- Tétines
+- Tapis de jeu
+- Jouets pour enfants
+- Puzzles
+- Livres pour enfants
+- Vêtements bébé
+- Poussettes
+- Chaise de bébé
+- Siège auto
+- Coussin d'allaitement
+- Sac de couchage pour bébé
+- Housse de siège auto
+- Hamac
+- Jouets éducatifs
+- Détecteur de mouvement
+- Moniteur bébé
+- Rideaux occultants
+- Langes
+- Crème pour bébé
+- Lingettes pour bébé
+- Tapis de sol
+- Coussin de maternité
